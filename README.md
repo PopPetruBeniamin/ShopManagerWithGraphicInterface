@@ -40,3 +40,7 @@ The program is structured into:
 - 📂 **Service/**: Business logic and statistics processing.
 - 📂 **Ui/**: Command-line interface
 
+---
+## 🏆 Conclusion
+
+This **Inventory & Order Management System** is a practical project developed to explore concepts such as file handling, database integration, and JavaFX interfaces. While it's a relatively simple tool, it provides a solid foundation for managing basic product and order data, and it includes some useful statistics to help better understand inventory trends. It's a great starting point for learning and expanding into more advanced systems. 🚀
