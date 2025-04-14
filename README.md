@@ -29,5 +29,14 @@ This application is designed for **Inventory and Order Management** using **Java
 ---
 
 ## 🏗️ Code Structure
-The program is structured as follows:
+The program is structured into:
+- 📂 **MainMain.java**: Entry point: launches either GUI or CLI based on configuration.
+- 📂 **MainApplication.java**: Launches the graphical user interface (JavaFX).
+- 📂 **main.java**: Starts the command-line interface.
+- 📂 **Config/**: settings.properties # Configuration file to specify startup options (JavaFX or CLI) | SettingsManager.java # Class to manage reading settings
+- 📂 **Data/**: Package for binary and text file persistence.
+- 📂 **Domain/**: Business models: Product, Order.
+- 📂 **Repository/**: Storage logic (in-memory, DB, file-based).
+- 📂 **Service/**: Business logic and statistics processing.
+- 📂 **Ui/**: Command-line interface
 
