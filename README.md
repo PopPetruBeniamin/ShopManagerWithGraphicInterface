@@ -10,7 +10,7 @@ This application is designed for **Inventory and Order Management** using **Java
 ### 🔹 **1. Data Persistence**
 - **Text Files**: Store data in a human-readable format.
 - **Binary Files**: Efficient storage of data in binary format.
-- **SQLite Database**: Full database support for storing products and orders.
+- **SQLite Database**: Database support for storing products and orders.
 
 ### 🔹 **2. Product & Order Management**
 - 📌 **Add/Remove/Update Products**: Manage product inventory efficiently.
